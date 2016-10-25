@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\snv\\AngelDoctor\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Android\\Desktop\\snv\\AngelDoctor\\GeneralUpdateLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\snv\\KM\\KMAngelDoctor\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Android\\Desktop\\snv\\KM\\KMAngelDoctor\\GeneralUpdateLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\snv\\xian\\XAAngelDoctor\\GeneralUpdateLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Android\\Desktop\\snv\\xian\\XAAngelDoctor\\GeneralUpdateLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    }
+]
